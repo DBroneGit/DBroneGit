@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there, I´m David 👋
+- Videogame Developer (Unity)
+- Programming Languages 
+  - C# Programmer (Basic ++)
+  - Java (Basic ++)
+  - Kotlin (Basic)
+- Idioms
+  - Spanish (I´m Mexican)
+  - English (Studyng B1)
 
+### Nice to meet you!
+### Buenas tardes! 😄
 <!--
 **DBroneGit/DBroneGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
